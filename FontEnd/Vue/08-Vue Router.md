@@ -216,4 +216,3 @@ routes() {
 - [[10-自定义指令]] — v-permission 按钮级权限
 - [[07-组件通信]] — Vuex 全局状态（store.getters.roles）
 - [[01-Vue项目初始化与入口]] — main.js 中注入 router
-- [[01-Vue项目初始化与入口]] — main.js 中注入 router
